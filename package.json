@@ -1,0 +1,22 @@
+{
+  "name": "expense-sharing-backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "exceljs": "^4.4.0",
+    "express": "^4.21.1",
+    "mongoose": "^8.7.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  }
+}
